@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/takama/whoisd/storage"
+	"github.com/domainname/whoisd/storage"
 )
 
 const (

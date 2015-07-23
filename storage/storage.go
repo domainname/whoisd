@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/takama/whoisd/config"
-	"github.com/takama/whoisd/mapper"
+	"github.com/domainname/whoisd/config"
+	"github.com/domainname/whoisd/mapper"
 )
 
 // Storage - the interface for every implementation of storage

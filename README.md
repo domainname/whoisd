@@ -14,7 +14,7 @@ Whois Daemon complies with the requirements of [ICANN](https://www.icann.org/res
 This package is "go-gettable", just do:
 
 ```sh
-go get github.com/takama/whoisd
+go get github.com/domainname/whoisd
 ```
 
 _NOTE_: you need go 1.2+ and need set PATH="$GOPATH/bin". Please check your installation with

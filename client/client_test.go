@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/takama/whoisd/config"
-	"github.com/takama/whoisd/storage"
+	"github.com/domainname/whoisd/config"
+	"github.com/domainname/whoisd/storage"
 )
 
 func TestClientHandling(t *testing.T) {

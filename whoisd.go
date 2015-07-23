@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/takama/whoisd/config"
-	"github.com/takama/whoisd/service"
+	"github.com/domainname/whoisd/config"
+	"github.com/domainname/whoisd/service"
 )
 
 // Init "Usage" helper
